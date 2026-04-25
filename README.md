@@ -1,3 +1,7 @@
+<div align="center">
+
+![banner](https://files.catbox.moe/24wx1s.jpg)
+
 ```
   ██████  ███████ ███    ██ ███    ██  █████  
   ██      ██      ████   ██ ████   ██ ██   ██ 
@@ -16,6 +20,16 @@
   status    : always watching
 ```
 
+![status](https://github-readme-activity-graph.vercel.app/graph?username=sennasama&theme=github-compact&hide_border=true&bg_color=000000&color=ffffff&line=ffffff&point=ffffff)
+ 
 ---
-
-![](https://komarev.com/ghpvc/?username=sennasama&color=black&style=flat&label=visitors)
+ 
+![counter](https://count.getloli.com/get/@sennasama?theme=rule34)
+ 
+---
+ 
+### contributors
+ 
+![Contributors](https://contrib.rocks/image?repo=sennasama/sennasama)
+ 
+</div>
